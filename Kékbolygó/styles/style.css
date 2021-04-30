@@ -1,0 +1,42 @@
+
+
+body{
+	font-family: Montserrat;
+	font-size: 16px;
+color: #000000;
+		
+}
+p
+{
+	font-family: Montserrat;
+	font-size: 16px;
+color: #000000;
+}
+h1
+{
+	font-family: Montserrat;
+	font-size: 25px;
+	color: #000000;
+	text-align:center;
+}
+h2#kek,h1#kek
+{
+	color:#164899;
+	font-family: Montserrat;
+	font-size: 28px;
+	text-align:center;
+}
+p#zold
+{
+	color:#89C23D;
+	font-family: Montserrat;
+	font-size: 24px;
+	text-align:center;
+}
+td,th
+{
+	text-align:center;
+		font-family: Montserrat;
+	font-size: 16px;
+color: #333333;
+}
